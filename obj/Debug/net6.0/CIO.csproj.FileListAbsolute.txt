@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\CIO\bin\Debug\net6.0\CIO.deps.json
+C:\Users\1\source\repos\CIO\bin\Debug\net6.0\CIO.dll
+C:\Users\1\source\repos\CIO\bin\Debug\net6.0\CIO.pdb
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.AssemblyInfo.cs
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.dll
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\refint\CIO.dll
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\CIO.pdb
+C:\Users\1\source\repos\CIO\obj\Debug\net6.0\ref\CIO.dll

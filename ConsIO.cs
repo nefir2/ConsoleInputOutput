@@ -1675,10 +1675,7 @@ namespace CIO
 		public static void Show(object message) => Console.Write(message);
 		/// <summary> множественный перенос курсора. </summary>
 		/// <param name="lines"> количество строк для переноса курсора. </param>
-		public static void Ln(int lines)
-		{
-			for (int i = 0; i < lines; i++) Ln();
-		}
+		public static void Ln(int lines) { for (int i = 0; i < lines; i++) Ln(); }
 		/// <summary> единичный перенос курсора. </summary>
 		public static void Ln() => Console.WriteLine();
 		/// <summary> очистка консоли. </summary>
